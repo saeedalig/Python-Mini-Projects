@@ -4,7 +4,7 @@ print("Welcome to my computer quiz !!")
 # Asking whether or not you wanna paly the game 
 playing = input("Do you want to play the game? ")
 
-if playing != "y":
+if playing != "yes":
     quit()
 
 print("ok! let's play")
